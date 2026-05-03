@@ -1,7 +1,31 @@
 {
   "colorPalette": "slate-silver",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260502-212832-9owu",
+      "title": "Penguinz Is Chilly",
+      "commanders": [
+        "Penguinz Is Chilly"
+      ],
+      "dateStart": "2026-05-03T04:28:32.000Z",
+      "dateEnd": "2026-05-03T06:33:26.000Z",
+      "dateLabel": "5/2/2026, 9:28:32 PM - 5/2/2026, 11:33:26 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260502-212832-9owu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 48
+      }
+    },
     {
       "id": "20260502-202917-4y0h",
       "title": "Penguinz Is Chilly, Vape Onion Star",
