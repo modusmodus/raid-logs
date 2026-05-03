@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260502-181626-43bt",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-05-03T01:16:26.000Z",
+      "dateEnd": "2026-05-03T02:07:04.000Z",
+      "dateLabel": "5/2/2026, 6:16:26 PM - 5/2/2026, 7:07:04 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260502-181626-43bt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260502-181626-ec8n",
       "title": "Vape Onion Star",
       "commanders": [
