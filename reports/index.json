@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-213411-n9ly",
+      "title": "Shady Penguinz, Typemander",
+      "commanders": [
+        "Shady Penguinz",
+        "Typemander"
+      ],
+      "dateStart": "2026-05-27T04:34:11.000Z",
+      "dateEnd": "2026-05-27T05:42:12.000Z",
+      "dateLabel": "5/26/2026, 9:34:11 PM - 5/26/2026, 10:42:12 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260526-213411-n9ly",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260526-190951-pmku",
       "title": "Vape Onion Star",
       "commanders": [
