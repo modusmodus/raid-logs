@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260602-065502-3vwi",
+      "title": "Jerichoya",
+      "commanders": [
+        "Jerichoya"
+      ],
+      "dateStart": "2026-06-02T13:55:02.000Z",
+      "dateEnd": "2026-06-02T14:56:54.000Z",
+      "dateLabel": "6/2/2026, 6:55:02 AM - 6/2/2026, 7:56:54 AM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260602-065502-3vwi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260526-213411-n9ly",
       "title": "Shady Penguinz, Typemander",
       "commanders": [
