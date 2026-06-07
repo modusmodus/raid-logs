@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-173843-nnfw",
+      "title": "Dxshka Vol",
+      "commanders": [
+        "Dxshka Vol"
+      ],
+      "dateStart": "2026-06-07T00:38:43.000Z",
+      "dateEnd": "2026-06-07T01:56:49.000Z",
+      "dateLabel": "6/6/2026, 5:38:43 PM - 6/6/2026, 6:56:49 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260606-173843-nnfw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260602-065502-3vwi",
       "title": "Jerichoya",
       "commanders": [
