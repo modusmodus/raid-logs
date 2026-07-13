@@ -1,282 +1,310 @@
-[
-  {
-    "id": "20260609-071528-pq8b",
-    "title": "Yinyiri",
-    "commanders": [
-      "Yinyiri"
-    ],
-    "dateStart": "2026-06-09T14:15:28.000Z",
-    "dateEnd": "2026-06-09T14:53:43.000Z",
-    "dateLabel": "6/9/2026, 7:15:28 AM - 6/9/2026, 7:53:43 AM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260609-071528-pq8b",
-    "summary": {
-      "borderlandsPct": 0.021739130434782608,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 45,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+{
+  "colorPalette": "slate-silver",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260712-212430-9f2k",
+      "title": "Legion Timebender",
+      "commanders": [
+        "Legion Timebender"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260606-173843-nnfw",
-    "title": "Dxshka Vol",
-    "commanders": [
-      "Dxshka Vol"
-    ],
-    "dateStart": "2026-06-07T00:38:43.000Z",
-    "dateEnd": "2026-06-07T01:56:49.000Z",
-    "dateLabel": "6/6/2026, 5:38:43 PM - 6/6/2026, 6:56:49 PM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260606-173843-nnfw",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 22,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-07-13T04:24:30.000Z",
+      "dateEnd": "2026-07-13T05:14:59.000Z",
+      "dateLabel": "7/12/2026, 9:24:30 PM - 7/12/2026, 10:14:59 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260712-212430-9f2k",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260609-071528-pq8b",
+      "title": "Yinyiri",
+      "commanders": [
+        "Yinyiri"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260602-065502-3vwi",
-    "title": "Jerichoya",
-    "commanders": [
-      "Jerichoya"
-    ],
-    "dateStart": "2026-06-02T13:55:02.000Z",
-    "dateEnd": "2026-06-02T14:56:54.000Z",
-    "dateLabel": "6/2/2026, 6:55:02 AM - 6/2/2026, 7:56:54 AM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260602-065502-3vwi",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 26,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-09T14:15:28.000Z",
+      "dateEnd": "2026-06-09T14:53:43.000Z",
+      "dateLabel": "6/9/2026, 7:15:28 AM - 6/9/2026, 7:53:43 AM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260609-071528-pq8b",
+      "summary": {
+        "borderlandsPct": 0.021739130434782608,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260606-173843-nnfw",
+      "title": "Dxshka Vol",
+      "commanders": [
+        "Dxshka Vol"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 57
-    }
-  },
-  {
-    "id": "20260526-213411-n9ly",
-    "title": "Shady Penguinz, Typemander",
-    "commanders": [
-      "Shady Penguinz",
-      "Typemander"
-    ],
-    "dateStart": "2026-05-27T04:34:11.000Z",
-    "dateEnd": "2026-05-27T05:42:12.000Z",
-    "dateLabel": "5/26/2026, 9:34:11 PM - 5/26/2026, 10:42:12 PM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260526-213411-n9ly",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 18,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-07T00:38:43.000Z",
+      "dateEnd": "2026-06-07T01:56:49.000Z",
+      "dateLabel": "6/6/2026, 5:38:43 PM - 6/6/2026, 6:56:49 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260606-173843-nnfw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260602-065502-3vwi",
+      "title": "Jerichoya",
+      "commanders": [
+        "Jerichoya"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260526-190951-pmku",
-    "title": "Vape Onion Star",
-    "commanders": [
-      "Vape Onion Star"
-    ],
-    "dateStart": "2026-05-27T02:09:51.000Z",
-    "dateEnd": "2026-05-27T03:02:35.000Z",
-    "dateLabel": "5/26/2026, 7:09:51 PM - 5/26/2026, 8:02:35 PM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260526-190951-pmku",
-    "summary": {
-      "borderlandsPct": 0.84375,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 24,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 5,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-02T13:55:02.000Z",
+      "dateEnd": "2026-06-02T14:56:54.000Z",
+      "dateLabel": "6/2/2026, 6:55:02 AM - 6/2/2026, 7:56:54 AM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260602-065502-3vwi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 57
+      }
+    },
+    {
+      "id": "20260526-213411-n9ly",
+      "title": "Shady Penguinz, Typemander",
+      "commanders": [
+        "Shady Penguinz",
+        "Typemander"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 47
-    }
-  },
-  {
-    "id": "20260502-212832-9owu",
-    "title": "Penguinz Is Chilly",
-    "commanders": [
-      "Penguinz Is Chilly"
-    ],
-    "dateStart": "2026-05-03T04:28:32.000Z",
-    "dateEnd": "2026-05-03T06:33:26.000Z",
-    "dateLabel": "5/2/2026, 9:28:32 PM - 5/2/2026, 11:33:26 PM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260502-212832-9owu",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 7,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-05-27T04:34:11.000Z",
+      "dateEnd": "2026-05-27T05:42:12.000Z",
+      "dateLabel": "5/26/2026, 9:34:11 PM - 5/26/2026, 10:42:12 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260526-213411-n9ly",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260526-190951-pmku",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
       ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260502-202917-4y0h",
-    "title": "Penguinz Is Chilly, Vape Onion Star",
-    "commanders": [
-      "Penguinz Is Chilly",
-      "Vape Onion Star"
-    ],
-    "dateStart": "2026-05-03T03:29:17.000Z",
-    "dateEnd": "2026-05-03T06:33:26.000Z",
-    "dateLabel": "5/2/2026, 8:29:17 PM - 5/2/2026, 11:33:26 PM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260502-202917-4y0h",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 9,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-05-27T02:09:51.000Z",
+      "dateEnd": "2026-05-27T03:02:35.000Z",
+      "dateLabel": "5/26/2026, 7:09:51 PM - 5/26/2026, 8:02:35 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260526-190951-pmku",
+      "summary": {
+        "borderlandsPct": 0.84375,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 47
+      }
+    },
+    {
+      "id": "20260502-212832-9owu",
+      "title": "Penguinz Is Chilly",
+      "commanders": [
+        "Penguinz Is Chilly"
       ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260502-181626-43bt",
-    "title": "Vape Onion Star",
-    "commanders": [
-      "Vape Onion Star"
-    ],
-    "dateStart": "2026-05-03T01:16:26.000Z",
-    "dateEnd": "2026-05-03T02:07:04.000Z",
-    "dateLabel": "5/2/2026, 6:16:26 PM - 5/2/2026, 7:07:04 PM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260502-181626-43bt",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-05-03T04:28:32.000Z",
+      "dateEnd": "2026-05-03T06:33:26.000Z",
+      "dateLabel": "5/2/2026, 9:28:32 PM - 5/2/2026, 11:33:26 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260502-212832-9owu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260502-202917-4y0h",
+      "title": "Penguinz Is Chilly, Vape Onion Star",
+      "commanders": [
+        "Penguinz Is Chilly",
+        "Vape Onion Star"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260502-181626-e0tg",
-    "title": "Vape Onion Star",
-    "commanders": [
-      "Vape Onion Star"
-    ],
-    "dateStart": "2026-05-03T01:16:26.000Z",
-    "dateEnd": "2026-05-03T02:07:04.000Z",
-    "dateLabel": "5/2/2026, 6:16:26 PM - 5/2/2026, 7:07:04 PM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260502-181626-e0tg",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-05-03T03:29:17.000Z",
+      "dateEnd": "2026-05-03T06:33:26.000Z",
+      "dateLabel": "5/2/2026, 8:29:17 PM - 5/2/2026, 11:33:26 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260502-202917-4y0h",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260502-181626-43bt",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260427-210208-hb7x",
-    "title": "Penguinz The Chilly",
-    "commanders": [
-      "Penguinz The Chilly"
-    ],
-    "dateStart": "2026-04-28T04:02:08.000Z",
-    "dateEnd": "2026-04-28T04:42:59.000Z",
-    "dateLabel": "4/27/2026, 9:02:08 PM - 4/27/2026, 9:42:59 PM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260427-210208-hb7x",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 6,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-05-03T01:16:26.000Z",
+      "dateEnd": "2026-05-03T02:07:04.000Z",
+      "dateLabel": "5/2/2026, 6:16:26 PM - 5/2/2026, 7:07:04 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260502-181626-43bt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 45
+      }
+    },
+    {
+      "id": "20260502-181626-e0tg",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
       ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 63
-    }
-  },
-  {
-    "id": "20260425-172751-mhay",
-    "title": "Vape Onion Star",
-    "commanders": [
-      "Vape Onion Star"
-    ],
-    "dateStart": "2026-04-26T00:27:51.000Z",
-    "dateEnd": "2026-04-26T02:54:30.000Z",
-    "dateLabel": "4/25/2026, 5:27:51 PM - 4/25/2026, 7:54:30 PM",
-    "url": "https://modusmodus.github.io/raid-logs/?report=20260425-172751-mhay",
-    "summary": {
-      "borderlandsPct": 0.9210526315789473,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 35,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 3,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-05-03T01:16:26.000Z",
+      "dateEnd": "2026-05-03T02:07:04.000Z",
+      "dateLabel": "5/2/2026, 6:16:26 PM - 5/2/2026, 7:07:04 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260502-181626-e0tg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 45
+      }
+    },
+    {
+      "id": "20260427-210208-hb7x",
+      "title": "Penguinz The Chilly",
+      "commanders": [
+        "Penguinz The Chilly"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 40
+      "dateStart": "2026-04-28T04:02:08.000Z",
+      "dateEnd": "2026-04-28T04:42:59.000Z",
+      "dateLabel": "4/27/2026, 9:02:08 PM - 4/27/2026, 9:42:59 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260427-210208-hb7x",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 63
+      }
+    },
+    {
+      "id": "20260425-172751-mhay",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-04-26T00:27:51.000Z",
+      "dateEnd": "2026-04-26T02:54:30.000Z",
+      "dateLabel": "4/25/2026, 5:27:51 PM - 4/25/2026, 7:54:30 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260425-172751-mhay",
+      "summary": {
+        "borderlandsPct": 0.9210526315789473,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 35,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 40
+      }
     }
-  }
-]
+  ]
+}
