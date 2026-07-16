@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-065814-r0wd",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "dateStart": "2026-07-16T13:58:14.000Z",
+      "dateEnd": "2026-07-16T14:42:46.000Z",
+      "dateLabel": "7/16/2026, 6:58:14 AM - 7/16/2026, 7:42:46 AM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260716-065814-r0wd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260715-170418-ii1g",
       "title": "Deshka Il",
       "commanders": [
