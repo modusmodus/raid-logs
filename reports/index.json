@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260715-170418-ii1g",
+      "title": "Deshka Il",
+      "commanders": [
+        "Deshka Il"
+      ],
+      "dateStart": "2026-07-16T00:04:18.000Z",
+      "dateEnd": "2026-07-16T01:46:45.000Z",
+      "dateLabel": "7/15/2026, 5:04:18 PM - 7/15/2026, 6:46:45 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260715-170418-ii1g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 37,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260712-212430-9f2k",
       "title": "Legion Timebender",
       "commanders": [
