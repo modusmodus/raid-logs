@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-185504-l10g",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "dateStart": "2026-07-19T01:55:04.000Z",
+      "dateEnd": "2026-07-19T03:23:24.000Z",
+      "dateLabel": "7/18/2026, 6:55:04 PM - 7/18/2026, 8:23:24 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260718-185504-l10g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260716-065814-r0wd",
       "title": "Wîhok",
       "commanders": [
