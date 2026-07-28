@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-065607-zkze",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "dateStart": "2026-07-28T13:56:07.000Z",
+      "dateEnd": "2026-07-28T14:54:25.000Z",
+      "dateLabel": "7/28/2026, 6:56:07 AM - 7/28/2026, 7:54:25 AM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260728-065607-zkze",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260718-185504-l10g",
       "title": "B U B B L E C A R",
       "commanders": [
