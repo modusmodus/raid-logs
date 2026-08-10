@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-214954-6w6a",
+      "title": "Legion Timebender",
+      "commanders": [
+        "Legion Timebender"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-10T04:49:54.000Z",
+      "dateEnd": "2026-08-10T05:27:43.000Z",
+      "dateLabel": "8/9/2026, 9:49:54 PM - 8/9/2026, 10:27:43 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260809-214954-6w6a",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260728-065607-zkze",
       "title": "Wîhok",
       "commanders": [
