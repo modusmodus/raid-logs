@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260813-180851-6eix",
+      "title": "Modus Gnosis",
+      "commanders": [
+        "Modus Gnosis"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-14T01:08:51.000Z",
+      "dateEnd": "2026-08-14T04:18:46.000Z",
+      "dateLabel": "8/13/2026, 6:08:51 PM - 8/13/2026, 9:18:46 PM",
+      "url": "https://modusmodus.github.io/raid-logs/?report=20260813-180851-6eix",
+      "summary": {
+        "borderlandsPct": 0.4,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260809-214954-6w6a",
       "title": "Legion Timebender",
       "commanders": [
